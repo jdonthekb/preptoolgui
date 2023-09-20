@@ -5,6 +5,7 @@
 *.exe
 
 # Ignore TeX-related files
+*.md
 
 # Ignore .aux files
 *.aux
