@@ -1,0 +1,37 @@
+# Ignore HTML
+*.html
+
+# Ignore EXE 
+*.exe
+
+# Ignore TeX-related files
+
+# Ignore .aux files
+*.aux
+
+# Ignore .log files
+*.log
+
+# Ignore .pdf files (generated PDFs)
+*.pdf
+
+# Ignore .bbl files (Bibliography files)
+*.bbl
+
+# Ignore .blg files (Bibliography log files)
+*.blg
+
+# Ignore .synctex.gz files (SyncTeX files)
+*.synctex.gz
+
+# Ignore .fdb_latexmk files (Latexmk temporary files)
+*.fdb_latexmk
+
+# Ignore .fls files (Latexmk support files)
+*.fls
+
+# Ignore .out files (Output files)
+*.out
+
+# Ignore .toc files (Table of contents files)
+*.toc
