@@ -1,6 +1,9 @@
 # preptoolgui
 Windows GUI that works side-by-side with the Microsoft-Win32-Content-Prep-Tool
 
+Microsoft-Win32-Content-Prep-Tool can be found here:
+https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool
+
 User Manual for Microsoft Win32 Content Prep Tool GUI by Joshua Dwight
 
 Table of Contents
