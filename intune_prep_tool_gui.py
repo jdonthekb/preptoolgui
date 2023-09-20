@@ -10,7 +10,7 @@ from pathlib import Path
 class IntuneWinAppUtilGUI:
     def __init__(self, master):
         self.master = master
-        master.title("Microsoft Win32 Content Prep Tool GUI by Joshua Dwight")
+        master.title("Prep Tool GUI v1.9.20.23 by Joshua Dwight")
 
         # Initialize default values
         self.install_file_path = ""
