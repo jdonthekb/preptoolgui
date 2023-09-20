@@ -4,6 +4,14 @@
 # Ignore EXE 
 *.exe
 
+# Ignore Compiler Files
+*.toc
+*.zip
+*.manifest
+*.pkg
+*.txt
+*.pyc
+
 # Ignore TeX-related files
 *.md
 
